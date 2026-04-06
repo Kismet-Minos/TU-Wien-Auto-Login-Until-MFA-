@@ -18,7 +18,7 @@ Saves you from one extra click every time.
 - [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/tampermonkey/iikmkjmpaadaobahmlepeloendndfphd)
 
 ### 2. Install the script
-Click this link: **[Install script from GitHub](https://github.com/Kismet-Minos/TU-Wien-Auto-Login-Until-MFA-/raw/main/tuwien_auto_login.user.js)**  
+Click this link: **[Install script from GitHub](https://github.com/Kismet-Minos/TU-Wien-Auto-Login-Until-MFA-/raw/main/tuwien-auto-login.user.js)**  
 (Or directly open the `.user.js` file in this repo and click **Raw** – Tampermonkey will ask you to install.)
 
 ### 3. Verify it works
